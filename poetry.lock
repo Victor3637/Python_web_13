@@ -2,7 +2,7 @@
 
 [[package]]
 name = "aiosmtplib"
-version = "3"
+version = "0.2"
 description = "asyncio SMTP client"
 optional = false
 python-versions = ">=3.7,<4.0"
@@ -17,7 +17,7 @@ uvloop = ["uvloop (>=0.14,<0.15)", "uvloop (>=0.14,<0.15)", "uvloop (>=0.17,<0.1
 
 [[package]]
 name = "alembic"
-version = "2"
+version = "0.2"
 description = "A database migration tool for SQLAlchemy."
 optional = false
 python-versions = ">=3.7"
